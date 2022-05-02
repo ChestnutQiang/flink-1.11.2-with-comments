@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-fs-hadoop-shaded\src\main\java\org\apache\hadoop\conf\Configuration.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-fs-hadoop-shaded\src\main\java\org\apache\hadoop\util\NativeCodeLoader.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-fs-hadoop-shaded\src\main\java\org\apache\hadoop\util\VersionInfo.java">
+</file>
+</checkstyle>

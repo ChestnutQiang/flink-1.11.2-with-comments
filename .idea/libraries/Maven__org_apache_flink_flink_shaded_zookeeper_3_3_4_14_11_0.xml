@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.flink:flink-shaded-zookeeper-3:3.4.14-11.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Java/maven-repository/org/apache/flink/flink-shaded-zookeeper-3/3.4.14-11.0/flink-shaded-zookeeper-3-3.4.14-11.0.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/Java/maven-repository/org/apache/flink/flink-shaded-zookeeper-3/3.4.14-11.0/flink-shaded-zookeeper-3-3.4.14-11.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-fatjar/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-loggraph/src/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-loggraph/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-rest/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-rest/src/test" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-contrib/zookeeper-contrib-zooinspector/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-it/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-jute/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-jute/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-election/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-election/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-lock/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-lock/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-queue/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-recipes/zookeeper-recipes-queue/src/test/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-server/src/main/java" />
+      <root url="file://$PROJECT_DIR$/../zookeeper-3.4.14/zookeeper-server/src/test/java" />
+      <root url="jar://$USER_HOME$/Java/maven-repository/org/apache/flink/flink-shaded-zookeeper-3/3.4.14-11.0/flink-shaded-zookeeper-3-3.4.14-11.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

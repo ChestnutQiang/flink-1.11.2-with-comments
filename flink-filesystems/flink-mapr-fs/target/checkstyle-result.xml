@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.14">
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-mapr-fs\src\main\java\org\apache\flink\runtime\fs\maprfs\MapRFsFactory.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-mapr-fs\src\test\java\com\mapr\fs\MapRFileSystem.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-mapr-fs\src\test\java\org\apache\flink\runtime\fs\maprfs\MapRFsFactoryTest.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-mapr-fs\src\test\java\org\apache\flink\runtime\fs\maprfs\MapRNotInClassPathTest.java">
+</file>
+<file name="C:\bigdata-src\flink-1.11.2\flink-filesystems\flink-mapr-fs\src\test\resources\log4j2-test.properties">
+</file>
+</checkstyle>
